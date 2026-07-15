@@ -20,6 +20,10 @@ body {
     color: var(--text);
 }
 
+.logo {
+    width: 180px;
+    height: auto;
+}
 
 /* 全体 */
 
